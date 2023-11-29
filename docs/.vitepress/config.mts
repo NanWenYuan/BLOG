@@ -36,11 +36,11 @@ export default defineConfig({
         outlineTitle: 'On this page', // 大纲标题
         // 导航社交图标
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/vuejs/vitepress'}
+            {icon: 'github', link: 'https://github.com/NanWenYuan'}
         ],
         // 页脚信息
         // footer: {
-            // message: 'Released under the MIT License. Copyright © 2019-present Evan You',
+        //     message: 'Released under the MIT License. Copyright © 2023-present NanWenYuan',
         // },
         // 文章上一页下一页
         docFooter: {
@@ -49,7 +49,7 @@ export default defineConfig({
         },
         // 编辑页面
         editLink: {
-            pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+            pattern: 'https://github.com/NanWenYuan/BLOG/tree/main/docs/:path',
             text: 'Edit this page'
         }
     }
